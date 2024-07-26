@@ -37,10 +37,10 @@ export default function Services() {
 				</div>
 				<div className='service yellow'>
 					<img src={Services1} alt='service' />
-					<p>Venez récupérer votre commande auprès de Dielika au 5 Rue de Jouvence à Conflans Ste Honorine les vendredi et samedis entre 18h et 20h </p>
+					<p>Réouverture de Keita Popote en 2025</p>
 				</div>
 			</div>
 		</Section>
 	);
-}
+} 
 
