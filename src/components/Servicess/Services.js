@@ -37,7 +37,7 @@ export default function Services() {
 				</div>
 				<div className='service yellow'>
 					<img src={Services1} alt='service' />
-					<p>Fermeture temporaire. Réouverture de Keita Popote en septembre 2025</p>
+					<p>Fermeture temporaire.</p>
 				</div>
 			</div>
 		</Section>
